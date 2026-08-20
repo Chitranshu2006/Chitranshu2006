@@ -1,4 +1,4 @@
-"""
+"""  
 Daily log updater.
 Appends a timestamped entry to LOG.md so each scheduled commit
 has real, meaningful content instead of being an empty filler commit.
