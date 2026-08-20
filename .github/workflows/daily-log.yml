@@ -1,0 +1,30 @@
+name: Daily Log Update
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # runs daily at 18:00 UTC — adjust to your timezone
+  workflow_dispatch: {}
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run log updater
+        run: python update_log.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add LOG.md
+          git diff --cached --quiet || git commit -m "Update daily log"
+          git push
