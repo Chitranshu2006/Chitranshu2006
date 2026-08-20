@@ -48,6 +48,14 @@
 
 ---
 
+### 🌐 Interactive 3D Contribution View
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" width="100%" />
+</p>
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -70,10 +78,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chitranshu2006&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitranshu2006&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
