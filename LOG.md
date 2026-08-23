@@ -18,3 +18,4 @@
 - **2026-08-23 04:40 UTC** — In order to be irreplaceable, one must always be different.
 - **2026-08-23 08:33 UTC** — The best error message is the one that never shows up.
 - **2026-08-23 12:45 UTC** — Programming is the art of telling another human what one wants the computer to do.
+- **2026-08-23 16:30 UTC** — Fix the cause, not just the symptom.
