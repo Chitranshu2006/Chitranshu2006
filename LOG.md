@@ -20,3 +20,4 @@
 - **2026-08-23 12:45 UTC** — Programming is the art of telling another human what one wants the computer to do.
 - **2026-08-23 16:30 UTC** — Fix the cause, not just the symptom.
 - **2026-08-23 20:26 UTC** — The most disastrous thing that you can ever learn is your first programming language.
+- **2026-08-24 01:34 UTC** — First, solve the problem. Then, write the code.
