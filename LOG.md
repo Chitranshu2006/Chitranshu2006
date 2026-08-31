@@ -52,3 +52,4 @@
 - **2026-08-30 22:31 UTC** — Programming is the art of telling another human what one wants the computer to do.
 - **2026-08-31 04:36 UTC** — The best error message is the one that never shows up.
 - **2026-08-31 15:58 UTC** — Fix the cause, not just the symptom.
+- **2026-08-31 21:25 UTC** — Code never lies, comments sometimes do.
