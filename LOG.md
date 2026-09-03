@@ -61,3 +61,4 @@
 - **2026-09-02 08:35 UTC** — Make it work, make it right, make it fast.
 - **2026-09-02 16:14 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-09-02 22:27 UTC** — First, solve the problem. Then, write the code.
+- **2026-09-03 03:39 UTC** — The best error message is the one that never shows up.
