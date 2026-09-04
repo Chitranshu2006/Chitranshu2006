@@ -66,3 +66,4 @@
 - **2026-09-03 16:04 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-09-03 22:24 UTC** — The best error message is the one that never shows up.
 - **2026-09-04 03:40 UTC** — First, solve the problem. Then, write the code.
+- **2026-09-04 08:38 UTC** — Programming is the art of telling another human what one wants the computer to do.
