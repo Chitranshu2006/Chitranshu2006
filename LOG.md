@@ -96,3 +96,4 @@
 - **2026-09-10 08:48 UTC** — The most disastrous thing that you can ever learn is your first programming language.
 - **2026-09-10 16:04 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 - **2026-09-10 22:20 UTC** — The best error message is the one that never shows up.
+- **2026-09-11 03:46 UTC** — First, solve the problem. Then, write the code.
