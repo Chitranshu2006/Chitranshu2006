@@ -102,3 +102,4 @@
 - **2026-09-11 22:20 UTC** — Experience is the name everyone gives to their mistakes.
 - **2026-09-12 03:50 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 - **2026-09-12 08:29 UTC** — Experience is the name everyone gives to their mistakes.
+- **2026-09-12 15:15 UTC** — Programming is the art of telling another human what one wants the computer to do.
