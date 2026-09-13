@@ -105,3 +105,4 @@
 - **2026-09-12 15:15 UTC** — Programming is the art of telling another human what one wants the computer to do.
 - **2026-09-12 18:13 UTC** — Simplicity is prerequisite for reliability.
 - **2026-09-12 22:01 UTC** — Software is a great combination of artistry and engineering.
+- **2026-09-13 03:58 UTC** — The most disastrous thing that you can ever learn is your first programming language.
