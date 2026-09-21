@@ -137,3 +137,4 @@
 - **2026-09-20 12:56 UTC** — The most disastrous thing that you can ever learn is your first programming language.
 - **2026-09-20 18:33 UTC** — Experience is the name everyone gives to their mistakes.
 - **2026-09-20 22:16 UTC** — Experience is the name everyone gives to their mistakes.
+- **2026-09-21 04:05 UTC** — Programming is the art of telling another human what one wants the computer to do.
