@@ -164,3 +164,4 @@
 - **2026-09-27 13:40 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-09-27 19:38 UTC** — Fix the cause, not just the symptom.
 - **2026-09-27 22:52 UTC** — Software is a great combination of artistry and engineering.
+- **2026-09-28 04:30 UTC** — Code is like humor. When you have to explain it, it's bad.
