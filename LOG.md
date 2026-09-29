@@ -169,3 +169,4 @@
 - **2026-09-29 00:15 UTC** — First, solve the problem. Then, write the code.
 - **2026-09-29 10:29 UTC** — Experience is the name everyone gives to their mistakes.
 - **2026-09-29 17:52 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+- **2026-09-29 23:32 UTC** — Programming is the art of telling another human what one wants the computer to do.
