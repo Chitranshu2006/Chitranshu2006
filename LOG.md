@@ -194,3 +194,4 @@
 - **2026-10-06 18:06 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-10-06 23:39 UTC** — First, solve the problem. Then, write the code.
 - **2026-10-07 05:05 UTC** — Simplicity is prerequisite for reliability.
+- **2026-10-07 15:18 UTC** — Fix the cause, not just the symptom.
