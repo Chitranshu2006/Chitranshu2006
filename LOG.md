@@ -247,3 +247,4 @@
 - **2026-10-21 03:55 UTC** — The most disastrous thing that you can ever learn is your first programming language.
 - **2026-10-21 09:13 UTC** — Experience is the name everyone gives to their mistakes.
 - **2026-10-21 16:52 UTC** — The best error message is the one that never shows up.
+- **2026-10-21 23:04 UTC** — Code is like humor. When you have to explain it, it's bad.
