@@ -278,3 +278,4 @@
 - **2026-10-28 20:51 UTC** — In order to be irreplaceable, one must always be different.
 - **2026-10-29 04:58 UTC** — Experience is the name everyone gives to their mistakes.
 - **2026-10-29 15:01 UTC** — The most disastrous thing that you can ever learn is your first programming language.
+- **2026-10-29 20:56 UTC** — Programming is the art of telling another human what one wants the computer to do.
