@@ -292,3 +292,4 @@
 - **2026-11-02 05:08 UTC** — The most disastrous thing that you can ever learn is your first programming language.
 - **2026-11-02 17:59 UTC** — Programming is the art of telling another human what one wants the computer to do.
 - **2026-11-03 02:04 UTC** — Fix the cause, not just the symptom.
+- **2026-11-03 11:43 UTC** — Programming is the art of telling another human what one wants the computer to do.
