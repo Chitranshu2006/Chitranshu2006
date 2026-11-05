@@ -298,3 +298,4 @@
 - **2026-11-04 11:55 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 - **2026-11-04 19:36 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-11-05 00:47 UTC** — In order to be irreplaceable, one must always be different.
+- **2026-11-05 11:58 UTC** — Fix the cause, not just the symptom.
