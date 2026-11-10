@@ -314,3 +314,4 @@
 - **2026-11-09 05:25 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 - **2026-11-09 18:30 UTC** — In order to be irreplaceable, one must always be different.
 - **2026-11-10 02:35 UTC** — Software is a great combination of artistry and engineering.
+- **2026-11-10 12:18 UTC** — Programming is the art of telling another human what one wants the computer to do.
