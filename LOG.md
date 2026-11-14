@@ -325,3 +325,4 @@
 - **2026-11-13 11:57 UTC** — In order to be irreplaceable, one must always be different.
 - **2026-11-13 19:31 UTC** — Software is a great combination of artistry and engineering.
 - **2026-11-14 00:46 UTC** — The best error message is the one that never shows up.
+- **2026-11-14 11:16 UTC** — Code is like humor. When you have to explain it, it's bad.
