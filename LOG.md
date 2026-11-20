@@ -341,3 +341,4 @@
 - **2026-11-19 01:46 UTC** — First, solve the problem. Then, write the code.
 - **2026-11-19 12:37 UTC** — Code never lies, comments sometimes do.
 - **2026-11-19 22:56 UTC** — The most disastrous thing that you can ever learn is your first programming language.
+- **2026-11-20 06:25 UTC** — Programming is the art of telling another human what one wants the computer to do.
