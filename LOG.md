@@ -349,3 +349,4 @@
 - **2026-11-22 05:49 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 - **2026-11-22 16:02 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
 - **2026-11-23 00:38 UTC** — Code never lies, comments sometimes do.
+- **2026-11-23 14:11 UTC** — The most disastrous thing that you can ever learn is your first programming language.
