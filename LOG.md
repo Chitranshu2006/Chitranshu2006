@@ -352,3 +352,4 @@
 - **2026-11-23 14:11 UTC** — The most disastrous thing that you can ever learn is your first programming language.
 - **2026-11-24 02:47 UTC** — Simplicity is prerequisite for reliability.
 - **2026-11-24 14:39 UTC** — Optimism is an occupational hazard of programming: feedback is the treatment.
+- **2026-11-25 00:27 UTC** — Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
